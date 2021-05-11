@@ -11,3 +11,4 @@ var selector = $("#mydiv")
 var color = "purple"
 ```
 Multi-instance support is coming soon
+jQuery is required
